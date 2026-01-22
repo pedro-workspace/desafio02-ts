@@ -1,3 +1,13 @@
 .header {
-    background-color: orange;
+    background-color: white;
+    height: 30px;
+    justify-content: center;
+    justify-self: center;
+    display: flex;
+    margin-bottom: 8.05em;
+    min-width: fit-content;
+    border-radius: 10em;
+    border-color: orangered;
+    border-style: inset;
+    border-width: 1px;
 }
